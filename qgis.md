@@ -6,6 +6,12 @@
 
 En el año 2002, Gary Sherman inicio el desarrollo de QGIS, un Sistema de Información Geográfica que permite la creación, edición, visualización, análisis y publicación de información geoespacial en varios Sistemas operativos como Windows, Mac, Linux, BSD y próximamente en Android.
 
+![](/assets/Gary_sherman.png)
+
+Figura 3. Gary Sherman, fundador del proyecto QGIS.
+
+
+
 
 
 
