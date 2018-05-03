@@ -14,7 +14,7 @@ El movimiento OsGeo considera que la forma de desarrollar software siguiendo la 
 
 ##### ![](/assets/Mapa_conceptual_del_software_libre.png)
 
-##### Mapa conceptual de la filosofía del software libre.
+Figura 2. Mapa conceptual de la filosofía del software libre.
 
 ##### 
 
